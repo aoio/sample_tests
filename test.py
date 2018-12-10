@@ -1,4 +1,4 @@
-
+from functions import *
 
 def assert(id, expected, actual)
     if expected != actual: print "FAIL: " + id
